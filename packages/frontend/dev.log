@@ -1,0 +1,38 @@
+
+> frontend@0.1.0 dev /home/user14/hacktivation-2025-summer/packages/frontend
+> next dev
+
+   ▲ Next.js 15.5.3
+   - Local:        http://localhost:3000
+   - Network:      http://10.1.0.4:3000
+
+ ✓ Starting...
+ ✓ Ready in 3.2s
+ ○ Compiling / ...
+ ✓ Compiled / in 8s (2340 modules)
+[TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')] {
+  page: '/'
+}
+[TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')] {
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.8s (2436 modules)
+ GET / 500 in 6617ms
+[TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading 'map')] {
+  page: '/'
+}
+ GET / 500 in 460ms
+ ✓ Compiled in 1913ms (2433 modules)
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET / 200 in 155ms
+ GET / 200 in 249ms
+ ELIFECYCLE  Command failed.
+[?25h
